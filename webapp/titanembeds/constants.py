@@ -782,6 +782,7 @@ GLOBAL_BANNED_WORDS = [
     "cocksucker",
     "crap",
     "cum",
+    "cumslut",
     "cunt",
     "cunts",
     "cuntz",
@@ -859,7 +860,7 @@ GLOBAL_BANNED_WORDS = [
     "futkretzn",
     "fux0r",
     "g00k",
-    "gay",
+    //Deleted Gay because there are gay people in my server and they might say "im gay"
     "gaybor",
     "gayboy",
     "gaygirl",
